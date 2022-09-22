@@ -21,6 +21,7 @@ body{
 header{
     text-align: center;
     padding: 3%;
+    
 }
 
 .title{
@@ -64,4 +65,10 @@ main{
 
  header p{
     margin-top: 2%;
+    
+ }
+
+ body{
+    width: 80%;
+    margin: auto;
  }
